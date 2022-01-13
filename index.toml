@@ -1,6 +1,5 @@
 hash-format = "sha256"
 
-
 [[files]]
 file = "mods/advanced-compass.toml"
 hash = "23a106cb7d5a7993f99f9e8525dfce4d26e20ba52e0009bcb532bc28aa33d4be"
@@ -51,3 +50,6 @@ file = "mods/visuality.toml"
 hash = "adb607b99658a223d7832d0288efbeecfc07659eabb267bd3244feb924d63708"
 metafile = true
 
+[[files]]
+file = "packwiz.exe"
+hash = "daf0fa9c8afc2d64c71a181eb5bebe02a90677784dd672d9bb238c8a7b8f8b7e"
