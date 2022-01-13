@@ -1,0 +1,13 @@
+name = "Advanced Compass"
+filename = "AdvancedCompass-fabric-1.18-1.2.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3546/281/AdvancedCompass-fabric-1.18-1.2.6.jar"
+hash-format = "murmur2"
+hash = "2742288527"
+
+[update]
+[update.curseforge]
+file-id = 3546281
+project-id = 461424
