@@ -1,0 +1,13 @@
+name = "RPG MC"
+author = "KribyMessiah"
+version = "1.1.8"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "751b7f7d9b8a84db12e230744f58de56f40017c27edb4c264aa54d40404cebda"
+
+[versions]
+fabric = "0.12.12"
+minecraft = "1.18.1"
