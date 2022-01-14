@@ -36,6 +36,11 @@ hash = "6b913703a97f54f0fb6199f357f414a61f9a7eca4a9305799411f16119fcb106"
 metafile = true
 
 [[files]]
+file = "mods/iceberg-fabric.toml"
+hash = "2ea4697f937ceb292c9a0919dc0f7ec6556a3ea34ebca5b89a562a596d713a05"
+metafile = true
+
+[[files]]
 file = "mods/odysseyhud.toml"
 hash = "2cf7455ab3d25e36bb1111eec6ecbad0762dc85dbd05beae547bf01e9d7d0495"
 metafile = true
