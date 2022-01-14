@@ -47,5 +47,5 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.toml"
-hash = "f8f6d4ddf3a30f1a88a65efe00f7fb82f9e3e706c5c9ea6d4de220effa12e4bb"
+hash = "adb607b99658a223d7832d0288efbeecfc07659eabb267bd3244feb924d63708"
 metafile = true
