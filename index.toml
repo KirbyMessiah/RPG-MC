@@ -6,11 +6,6 @@ hash = "84d2ed9556dd7cc84634886dd979644d2a0d6bdb055a76076452452fd89d6ee9"
 metafile = true
 
 [[files]]
-file = "mods/cosmetic-armor-fabric.toml"
-hash = "37dae96739550fd7524679c3726880f9684791a9543e221efca41ac63f73dfc4"
-metafile = true
-
-[[files]]
 file = "mods/decorative-blocks.toml"
 hash = "ed256a972ef737a9c75b7952846e567018cec5cd0e33cce9e02df247d540ecd0"
 metafile = true
