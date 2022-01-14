@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/advanced-compass.toml"
-hash = "23a106cb7d5a7993f99f9e8525dfce4d26e20ba52e0009bcb532bc28aa33d4be"
-metafile = true
-
-[[files]]
 file = "mods/blur-fabric.toml"
 hash = "84d2ed9556dd7cc84634886dd979644d2a0d6bdb055a76076452452fd89d6ee9"
 metafile = true
