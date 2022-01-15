@@ -31,6 +31,11 @@ hash = "2ea4697f937ceb292c9a0919dc0f7ec6556a3ea34ebca5b89a562a596d713a05"
 metafile = true
 
 [[files]]
+file = "mods/no-null-processors.toml"
+hash = "cacf5ebda915edc99213691d325e881db490b7420822bc3ae88fe1798a74a645"
+metafile = true
+
+[[files]]
 file = "mods/tool-stats.toml"
 hash = "63ca50e0e0d6e2e5474b81fc589e83c5e57e8230bab21460b0b9e28cec27f7bb"
 metafile = true
