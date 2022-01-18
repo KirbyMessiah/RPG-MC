@@ -1,0 +1,13 @@
+name = "Durability101 Forge/Fabric 1.12-1.18"
+filename = "Durability101-fabric-1.18-0.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3599/853/Durability101-fabric-1.18-0.0.4.jar"
+hash-format = "murmur2"
+hash = "4026864480"
+
+[update]
+[update.curseforge]
+file-id = 3599853
+project-id = 325020

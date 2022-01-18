@@ -1,0 +1,13 @@
+name = "[FABRIC] Sculk Worm"
+filename = "sculk_worm-0.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3607/531/sculk_worm-0.1.5.jar"
+hash-format = "murmur2"
+hash = "3008312602"
+
+[update]
+[update.curseforge]
+file-id = 3607531
+project-id = 555149
