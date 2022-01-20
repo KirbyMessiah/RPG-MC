@@ -56,6 +56,11 @@ hash = "2b0756538b98e29702e74d8f194b70eb8c472fa086e5a3084d903347cef4d623"
 metafile = true
 
 [[files]]
+file = "mods/mcdw.toml"
+hash = "fb8b0bb521b41b329535f9ade505b6209c83901575451003f338dea85ea71737"
+metafile = true
+
+[[files]]
 file = "mods/no-null-processors.toml"
 hash = "cacf5ebda915edc99213691d325e881db490b7420822bc3ae88fe1798a74a645"
 metafile = true
