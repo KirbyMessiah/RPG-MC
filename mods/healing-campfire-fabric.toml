@@ -1,0 +1,13 @@
+name = "Healing Campfire (Fabric)"
+filename = "healingcampfire-fabric_1.18.x-3.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3542/222/healingcampfire-fabric_1.18.x-3.3.jar"
+hash-format = "murmur2"
+hash = "3769445104"
+
+[update]
+[update.curseforge]
+file-id = 3542222
+project-id = 530031
