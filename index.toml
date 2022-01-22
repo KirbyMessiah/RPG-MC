@@ -6,6 +6,11 @@ hash = "84d2ed9556dd7cc84634886dd979644d2a0d6bdb055a76076452452fd89d6ee9"
 metafile = true
 
 [[files]]
+file = "mods/collective-fabric.toml"
+hash = "a2de54c45e5bb8dea51d212db64ea6cc07ca232a77d9a6a1097fcc20493ce87d"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-fabric.toml"
 hash = "37dae96739550fd7524679c3726880f9684791a9543e221efca41ac63f73dfc4"
 metafile = true
@@ -26,6 +31,16 @@ hash = "7f83c47a9d99710bb1db93c6ec76fe14222a98543d81acf0f5c6a239e84e97d3"
 metafile = true
 
 [[files]]
+file = "mods/eldritch-mobs.toml"
+hash = "c0cccd3ec8e0f0bb5eeb7fae413a3831a6688d872cd8ebd2b23b4cea509a8ca0"
+metafile = true
+
+[[files]]
+file = "mods/environmentz.toml"
+hash = "62a587025f848625f99990721125ff795510799cb0218f931b4d42dc63fb6e70"
+metafile = true
+
+[[files]]
 file = "mods/equipment-compare-fabric.toml"
 hash = "a7dac8121873392706f979785ec4976f72d5cdaee8ff6a6569b7c27bb1b968ec"
 metafile = true
@@ -36,13 +51,13 @@ hash = "6b913703a97f54f0fb6199f357f414a61f9a7eca4a9305799411f16119fcb106"
 metafile = true
 
 [[files]]
-file = "mods/fabric-sculk-worm.toml"
-hash = "e1bfddd2bfa5412bd543cd3e2b54573eaf81e28995537ad7ff371106d4d82eff"
+file = "mods/glassential-fabric.toml"
+hash = "3c7e445d33e50371d4912b5131e3c2484b1b724d58b7a21012c42e4484d5563a"
 metafile = true
 
 [[files]]
-file = "mods/glassential-fabric.toml"
-hash = "3c7e445d33e50371d4912b5131e3c2484b1b724d58b7a21012c42e4484d5563a"
+file = "mods/healing-campfire-fabric.toml"
+hash = "3c46e95f2b91d1dfa327c4ecf401644985eb0a015eb9b65e4f332177a02baf6e"
 metafile = true
 
 [[files]]
