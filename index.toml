@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/backslot.toml"
+hash = "2bb371922fea17babe6b7382bfa4371ad2ed4abae4053e2d9dba30e2318973f2"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.toml"
 hash = "84d2ed9556dd7cc84634886dd979644d2a0d6bdb055a76076452452fd89d6ee9"
 metafile = true
