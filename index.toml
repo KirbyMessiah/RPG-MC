@@ -41,11 +41,6 @@ hash = "c0cccd3ec8e0f0bb5eeb7fae413a3831a6688d872cd8ebd2b23b4cea509a8ca0"
 metafile = true
 
 [[files]]
-file = "mods/environmentz.toml"
-hash = "62a587025f848625f99990721125ff795510799cb0218f931b4d42dc63fb6e70"
-metafile = true
-
-[[files]]
 file = "mods/equipment-compare-fabric.toml"
 hash = "a7dac8121873392706f979785ec4976f72d5cdaee8ff6a6569b7c27bb1b968ec"
 metafile = true
