@@ -81,6 +81,11 @@ hash = "cacf5ebda915edc99213691d325e881db490b7420822bc3ae88fe1798a74a645"
 metafile = true
 
 [[files]]
+file = "mods/pswg.toml"
+hash = "165f759a08d709bb2d14bab7fb4e9ef509951cd9bd07bbe34785bc39611cc9cd"
+metafile = true
+
+[[files]]
 file = "mods/tool-stats.toml"
 hash = "63ca50e0e0d6e2e5474b81fc589e83c5e57e8230bab21460b0b9e28cec27f7bb"
 metafile = true
